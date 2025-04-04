@@ -1,0 +1,10 @@
+[book]
+authors = ["LeasingFall", "Nene2004"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Presentation"
+
+[output.html]
+additional-css = ["src/assets/css/custom.css"]
+additional-js = ["src/assets/js/custom.js"]
