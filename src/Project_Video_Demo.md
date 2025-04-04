@@ -111,8 +111,8 @@
     <h2 class="section-title"><i class="fas fa-play-circle"></i> See It In Action</h2>
     <p class="section-description">Watch how real users benefit from OptiFit's features in their daily routines.</p>
     <div class="video-button-container">
-      <button class="video-play-button" onclick="playVideo('./Optifit_Trial_2.webm')">
-        <i class="fas fa-play"></i> Watch Feature Demo
+      <button class="video-play-button">
+        <i class="fas fa-play"></i> [Watch Feature Demo](https://drive.google.com/file/d/1rbCMedHeF7Z0wzvls4hNYSjSy_ChlREb/view?usp=sharing)
       </button>
     </div>
   </div>
