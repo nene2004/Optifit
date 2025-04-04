@@ -257,3 +257,48 @@
     </div>
   </div>
 </div>
+#### Key Contributions
+
+**Calendar System, meals/workouts section **
+
+
+### Technical Skills Gained
+
+<div class="skills-grid">
+  <div class="skills-column">
+    <h4><i class="fas fa-cogs"></i> Architecture </h4>
+    <ul>
+      <li> I’ve learned how to design clear project architecture diagrams and distinguish code pieces and their fit to the specific layer. </li>
+      <li>I have developed deeper understanding of manageable components and how those components should interact </li>
+    </ul>
+  </div>
+
+  <div class="skills-column">
+    <h4><i class="fas fa-vial"></i> Refactoring </h4>
+    <ul>
+      <li>I have become much more skilled in recognizing common Code Smells, during refactoing and SOLID principle violations in the code. </li>
+      <li> I have  become much more skilled at breaking apart large classes consolidating similar functions and classes, that will ensure no technical debit in a future </li>
+    </ul>
+  </div>
+
+  <div class="skills-column">
+    <h4><i class="fas fa-project-diagram"></i> Communicatin & Collaboration</h4>
+    <ul>
+      <li> Learned how to communicate clearly with teammates during development, using Git, issue trackers, and team meetings to coordinate tasks </li>
+    </ul>
+  </div>
+</div>
+
+### Lessons Learned
+
+<div class="lessons">
+  <div class="lesson-card">
+    <h4><i class="fas fa-lightbulb"></i> Identifying the good/bad design patterns </h4>
+    <p>Learned to recognize and evaluate common design patterns such as Singleton or Factory Methods as well as identify where they could make code less or more complex.</p>
+  </div>
+
+  <div class="lesson-card">
+    <h4><i class="fas fa-broom"></i> Organization & Time managmen</h4>
+    <p>Learned to manage time effectively by breaking down tasks into milestones, setting deadlines, and prioritizing work to meet project goals on schedule.s.</p>
+  </div>
+
